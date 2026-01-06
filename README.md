@@ -40,9 +40,7 @@ where I can learn from industry professionals and contribute to real projects.
 - Full-stack MERN application for automated eBook generation  
 - Integrated AI APIs for dynamic content creation  
 - Implemented RESTful APIs and CRUD operations  
-- Stored user data and content efficiently using MongoDB  
-
-🔗 Portfolio: https://brijesh2015-portfolio.netlify.app/
+- Stored user data and content efficiently using MongoDB
 
 ---
 
