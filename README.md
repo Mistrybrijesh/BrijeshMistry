@@ -16,8 +16,7 @@ scalable web applications and solving real-world problems.
 
 ### 📌 Projects
 - **AI-Powered eBook Creator**  
-  Full-stack MERN application with AI content generation  
-  🔗 Portfolio: https://brijesh2015-portfolio.netlify.app/
+  Full-stack MERN application with AI content generation
 
 - **E-Commerce Website**  
   Responsive e-commerce UI with cart functionality  
