@@ -51,14 +51,6 @@ where I can learn from industry professionals and contribute to real projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mistrybrijesh&show_icons=true&theme=default"/>
-</p>
-
----
-
 ## 📫 How to Reach Me
 - 📧 Email: brijeshmistry2015@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/brijesh-mistry-77a681201  
